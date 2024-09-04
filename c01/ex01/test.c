@@ -29,5 +29,5 @@ int	main(void)
 	a = &b;
 
 	ft_ultimate_ft(a);
-	printf("Before: %d\n", j);
+	printf("After: %d\n", j);
 }
